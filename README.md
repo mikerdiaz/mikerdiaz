@@ -18,6 +18,22 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikerdiaz&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikerdiaz&layout=compact&theme=dark)
+
+---
+
+## 🚀 Currently Working On
+
+- 🎭 Playwright + Python QA Portfolio
+- 📊 SQL Data Validation Project
+- 🌐 AI-Assisted Testing techniques
+
+---
+
 ## 📂 Portfolio
 
 | Project | Description | Stack |
