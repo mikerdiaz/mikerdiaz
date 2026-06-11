@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Mike Diaz 👋
 
-<!--
-**mikerdiaz/mikerdiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Automation Engineer | Scrum Master | Vancouver, BC 🇨🇦
 
-Here are some ideas to get you started:
+20+ years of IT experience building quality into software across Venezuela and Chile, now based in Vancouver, BC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Test Automation:** Playwright · Pytest · Selenium · Python  
+**API Testing:** Postman · SoapUI · REST  
+**Performance:** JMeter  
+**CI/CD:** GitHub Actions · Azure DevOps  
+**Project Management:** Jira · Scrum · Agile  
+**CRM:** Salesforce  
+**Other:** SQL · Git · GitHub  
+
+---
+
+## 📂 Portfolio
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [playwright-qa-portfolio](https://github.com/mikerdiaz/playwright-qa-portfolio) | E2E automation with POM, CI/CD | Playwright · Python · GitHub Actions |
+| [order-api-test-suite](https://github.com/mikerdiaz/order-api-test-suite) | API testing framework | Python · Pytest · JWT |
+| [Test-Cases-QA](https://github.com/mikerdiaz/Test-Cases-QA) | Manual testing samples | Bug Reports · Test Cases |
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mikerdiaz-blue)](https://www.linkedin.com/in/mikefacilitator/)
+
+---
+
+*Open to QA Automation, SDET, and Manual QA roles in Vancouver, BC.*
