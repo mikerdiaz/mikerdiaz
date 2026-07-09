@@ -38,7 +38,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [playwright-qa-portfolio](https://github.com/mikerdiaz/playwright-qa-portfolio) | E2E automation with POM, CI/CD, Live Report | Playwright · Python · GitHub Actions |
+| [playwright-qa-portfolio](https://github.com/mikerdiaz/playwright-qa-portfolio) | E2E automation with POM, CI/CD, Live Report | Playwright · Python · GitHub Actions · Live Report |
 | [sql-data-validation-portfolio](https://github.com/mikerdiaz/sql-data-validation-portfolio) | SQL data integrity and validation tests | Python · SQLite · Pytest · CI/CD |
 | [order-api-test-suite](https://github.com/mikerdiaz/order-api-test-suite) | API testing framework | Python · Pytest · JWT |
 | [Test-Cases-QA](https://github.com/mikerdiaz/Test-Cases-QA) | Manual testing samples | Bug Reports · Test Cases |
